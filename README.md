@@ -1,2 +1,2 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,vscode,html,css,js,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,ps,ai,pr,au,ae,,xd,figma,kotlin,html,css,js,py,unity,vscode&theme=dark&perline=10)](https://skillicons.dev)
